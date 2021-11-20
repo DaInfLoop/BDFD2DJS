@@ -1,3 +1,5 @@
+![](https://repl.it/badge/github/dainfloop/bdfd2djs) ![](https://img.shields.io/github/stars/dainfloop/bdfd2djs.svg) ![](https://img.shields.io/github/forks/dainfloop/bdfd2djs.svg)
+
 # BDFD2DJS
 BDFD2DJS is an npm package that allows you to use Bot Designer for Discord's functions in normal `discord.js`.
 
